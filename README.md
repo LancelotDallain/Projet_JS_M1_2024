@@ -17,10 +17,10 @@ Ce projet vise à automatiser le processus de renommage de fichiers dans un rép
 
 2. Installez les dépendances :
 
-npm install
-cd project_server_renamefile
-npm install
-npm install express multer
+    npm install
+    cd project_server_renamefile
+    npm install
+    npm install express multer
 
 
 ### Utilisation
