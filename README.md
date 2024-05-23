@@ -1,29 +1,32 @@
-**Projet JS**
+# Projet JS
 
-### Description
+## Description
 Ce projet vise à automatiser le processus de renommage de fichiers dans un répertoire. De plus, il comprend des fonctionnalités pour calculer divers indicateurs du marché boursier tels que la volatilité, la volatilité moyenne, la volatilité moyenne, la volatilité la plus basse et la plus élevée.
 
-### Installation
+## Installation
 
-#### Dépendances
+### Dépendances
 - Node.js (https://nodejs.org)
 - npm (Gestionnaire de paquets Node.js)
 
-#### Étapes
+### Étapes
 1. Clonez le dépôt :
+   ```sh
    git clone https://github.com/LancelotDallain/Projet_JS_M1_2024.git
+
 
 2. Installez les dépendances :
 
-  - npm install
-  - cd project_server_renamefile
-  - npm install
-  - npm install express multer
+npm install
+cd project_server_renamefile
+npm install
+npm install express multer
+
 
 ### Utilisation
 
     Démarrez le serveur :
-    npm start
+npm start
 
     Cette commande lancera le serveur et affichera un lien dans le terminal. Cliquez sur le lien fourni pour ouvrir l'application dans votre navigateur. Vous pouvez également ouvrir directement le fichier index.html situé dans le répertoire public.
 
