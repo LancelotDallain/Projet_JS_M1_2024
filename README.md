@@ -34,3 +34,6 @@ Ce projet vise à automatiser le processus de renommage de fichiers dans un rép
     Indicateurs du Marché Boursier :
         Utilisez les fonctionnalités fournies pour calculer divers indicateurs du marché boursier tels que la volatilité, la volatilité moyenne, la volatilité moyenne, la volatilité la plus basse et la plus élevée.
 
+### Vidéo Explicative
+
+Une vidéo explicative décrivant le fonctionnement du serveur est disponible dans le repertoire '.\project_server_renamefile\video.mp4'.
