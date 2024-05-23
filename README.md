@@ -25,17 +25,17 @@ npm install express multer
 
 ### Utilisation
 
-    Démarrez le serveur :
-npm start
+Démarrez le serveur :
+    npm start
 
-    Cette commande lancera le serveur et affichera un lien dans le terminal. Cliquez sur le lien fourni pour ouvrir l'application dans votre navigateur. Vous pouvez également ouvrir directement le fichier index.html situé dans le répertoire public.
+Cette commande lancera le serveur et affichera un lien dans le terminal. Cliquez sur le lien fourni pour ouvrir l'application dans votre navigateur. Vous pouvez également ouvrir directement le fichier index.html situé dans le répertoire public.
 
-    Effectuez le renommage de fichiers :
-        Saisissez le chemin du répertoire, le nom de la série, le numéro de départ et la saison (optionnel) dans les champs de saisie.
-        Cliquez sur le bouton "Lancer le renommage" pour démarrer le processus de renommage des fichiers.
+Effectuez le renommage de fichiers :
+    Saisissez le chemin du répertoire, le nom de la série, le numéro de départ et la saison (optionnel) dans les champs de saisie.
+    Cliquez sur le bouton "Lancer le renommage" pour démarrer le processus de renommage des fichiers.
 
-    Indicateurs du Marché Boursier :
-        Utilisez les fonctionnalités fournies pour calculer divers indicateurs du marché boursier tels que la volatilité, la volatilité moyenne, la volatilité moyenne, la volatilité la plus basse et la plus élevée.
+Indicateurs du Marché Boursier :
+    Utilisez les fonctionnalités fournies pour calculer divers indicateurs du marché boursier tels que la volatilité, la volatilité moyenne, la volatilité moyenne, la volatilité la plus basse et la plus élevée.
 
 ### Vidéo Explicative
 
