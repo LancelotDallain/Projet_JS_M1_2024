@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+}
+
+input {
+    width: 300px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+#log {
+    border: 1px solid #ccc;
+    padding: 10px;
+    height: 100px;
+    overflow-y: scroll;
+    white-space: pre-wrap;
+    background-color: #f9f9f9;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+li {
+    cursor: pointer;
+    padding: 5px;
+}
+
+li:hover {
+    background-color: #f0f0f0;
+}
+
+
+
