@@ -11,7 +11,7 @@ Ce projet vise à automatiser le processus de renommage de fichiers dans un rép
 
 ### Étapes
 1. Clonez le dépôt :
-   ```sh
+
    git clone https://github.com/LancelotDallain/Projet_JS_M1_2024.git
 
 
